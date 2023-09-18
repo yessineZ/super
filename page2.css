@@ -105,5 +105,5 @@ body {
 
 .profile .social:hover {
     color : red ;
-    transition : translate(10px,10px) ; 
+    transform : translate(10px,10px) ; 
 }
